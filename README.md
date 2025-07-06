@@ -28,10 +28,11 @@ This project demonstrates:
 
 | File/Folders           | Description                                |
 |------------------------|--------------------------------------------|
-| `scraper.py`           | Python script to scrape and save data      |
+| `Scraper.ipynb`        | Jupyter notebook to scrape and save data   |
 | `laptops_combined.csv` | Scraped data in CSV format                 |
 | `app.py`               | Streamlit dashboard script                 |
 | `README.md`            | This documentation                         |
+| `LaptopScraperDashboard.png` | Dashboard screenshot                |
 
 ---
 
