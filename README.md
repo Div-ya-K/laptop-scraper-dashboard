@@ -53,7 +53,7 @@ Here’s a preview of the interactive dashboard built using Streamlit:
 
 ## 🛠️ Tools Used
 
-- Python 🐍  
+- Python 
 - BeautifulSoup  
 - pandas  
 - Streamlit  
